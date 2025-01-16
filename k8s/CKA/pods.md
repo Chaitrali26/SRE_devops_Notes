@@ -46,7 +46,7 @@ Lets create a nginx pod using **`kubectl`**.
   $ kubectl get pods
   ```
 
-    ![kubectl](kubectl.PNG)
+  ![kubectl](kubectl.png)
 
 ## Creating a pod with yaml based configuration.
 
