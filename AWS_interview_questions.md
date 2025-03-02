@@ -132,4 +132,3 @@
 23. what is difference availability zone, region, and Edge locations?
     ![difference](regionvsazvsedge.png)
 
-24. 
